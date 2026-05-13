@@ -1,0 +1,11 @@
+.not-found-page-container {
+  background-color: #000000;
+  color: #fff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 8px;
+}

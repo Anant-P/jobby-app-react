@@ -1,0 +1,19 @@
+.similar-job-card {
+  background-color: #272727;
+  border-radius: 12px;
+  list-style: none;
+  width: 300px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.similar-job-title {
+  font-size: 18px;
+}
+.similar-componey-logo-img {
+  width: 40px;
+}
+.similar-description-para {
+  font-size: 14px;
+}
